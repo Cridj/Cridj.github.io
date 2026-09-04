@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GameDev podo
+title: podo
 
-tagline: Unity와 C# 게임 개발 기록
+tagline: Unity Game Developer
 
 description: >-
   Unity와 C#을 중심으로 게임 개발 과정, 문제 해결 경험과 배운 내용을 기록합니다.
